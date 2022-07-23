@@ -1,0 +1,17 @@
+:root {
+    --dark-color: #19383f;
+    --green-color: #33d1cc;
+}
+
+body {
+   
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: var(--dark-color);
+}
+
+.navbar .navbar-nav .nav-link {
+    
+}
