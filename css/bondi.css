@@ -169,4 +169,8 @@ body {
 .subscribe ::placeholder {
     color: white;
 }
+.subscribe input[type="submit"] {
+    background-color: var(--dark-color);
+    color: var(--yellow-color);
+}
 /* End Subscribe */
