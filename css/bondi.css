@@ -154,3 +154,19 @@ body {
     background-color: var(--dark-color);
 }
 /* End Project Section */
+
+/* Start Subscribe */
+.subscribe {
+    background-color: var(--yellow-color);
+}
+.subscribe input[type="text"] {
+    border: none;
+    border-bottom: 1px solid white;
+}
+.subscribe input[type="text"]:focus {
+    outline: none;
+}
+.subscribe ::placeholder {
+    color: white;
+}
+/* End Subscribe */
